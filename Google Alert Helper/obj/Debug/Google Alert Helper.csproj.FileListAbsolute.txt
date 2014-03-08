@@ -1,0 +1,23 @@
+D:\Project Working\Google Alert Helper\Google Alert Helper\obj\Debug\Google Alert Helper.csprojResolveAssemblyReference.cache
+D:\Project Working\Google Alert Helper\Google Alert Helper\obj\Debug\Google_Alert_Helper.MainForm.resources
+D:\Project Working\Google Alert Helper\Google Alert Helper\obj\Debug\Google_Alert_Helper.Properties.Resources.resources
+D:\Project Working\Google Alert Helper\Google Alert Helper\obj\Debug\Google Alert Helper.csproj.GenerateResource.Cache
+D:\Project Working\Google Alert Helper\Google Alert Helper\obj\Debug\BlueSoft.AdvWebBrowser.resources
+D:\Project Working\Google Alert Helper\Google Alert Helper\bin\Debug\GACreator.exe.config
+D:\Project Working\Google Alert Helper\Google Alert Helper\bin\Debug\GACreator.exe
+D:\Project Working\Google Alert Helper\Google Alert Helper\bin\Debug\GACreator.pdb
+D:\Project Working\Google Alert Helper\Google Alert Helper\obj\Debug\GACreator.exe
+D:\Project Working\Google Alert Helper\Google Alert Helper\obj\Debug\GACreator.pdb
+F:\Work\Sales Scripts\Google Alert Creator\3.0\Google_Alert_Helper (1)\Google Alert Helper\Google Alert Helper\bin\Debug\GACreator.exe.config
+F:\Work\Sales Scripts\Google Alert Creator\3.0\Google_Alert_Helper (1)\Google Alert Helper\Google Alert Helper\obj\Debug\GACreator.exe
+F:\Work\Sales Scripts\Google Alert Creator\3.0\Google_Alert_Helper (1)\Google Alert Helper\Google Alert Helper\obj\Debug\GACreator.pdb
+F:\Work\Sales Scripts\Google Alert Creator\Google_Alert_Helper\Google Alert Helper\Google Alert Helper\bin\Debug\GACreator.exe.config
+F:\Work\Sales Scripts\Google Alert Creator\Google_Alert_Helper\Google Alert Helper\Google Alert Helper\obj\Debug\GACreator.exe
+F:\Work\Sales Scripts\Google Alert Creator\Google_Alert_Helper\Google Alert Helper\Google Alert Helper\obj\Debug\GACreator.pdb
+F:\Work\Sales Scripts\Google Alert Creator\Google_Alert_Helper\Google Alert Helper\Google Alert Helper\bin\Debug\GACreator.exe
+F:\Work\Sales Scripts\Google Alert Creator\Google_Alert_Helper\Google Alert Helper\Google Alert Helper\bin\Debug\GACreator.pdb
+F:\Work\Sales Scripts\Google Alert Creator\Google_Alert_Helper\Google Alert Helper\Google Alert Helper\obj\Debug\Google Alert Helper.csprojResolveAssemblyReference.cache
+F:\Work\Sales Scripts\Google Alert Creator\Google_Alert_Helper\Google Alert Helper\Google Alert Helper\obj\Debug\BlueSoft.AdvWebBrowser.resources
+F:\Work\Sales Scripts\Google Alert Creator\Google_Alert_Helper\Google Alert Helper\Google Alert Helper\obj\Debug\Google_Alert_Helper.MainForm.resources
+F:\Work\Sales Scripts\Google Alert Creator\Google_Alert_Helper\Google Alert Helper\Google Alert Helper\obj\Debug\Google_Alert_Helper.Properties.Resources.resources
+F:\Work\Sales Scripts\Google Alert Creator\Google_Alert_Helper\Google Alert Helper\Google Alert Helper\obj\Debug\Google Alert Helper.csproj.GenerateResource.Cache
